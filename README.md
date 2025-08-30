@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Sonar</h1>
 <h3 align="center">💻 Python & Machine Learning Enthusiast | Exploring AI, IoT & IT Automation | Open Source Learner 🚀</h3>
-
 ---
 
 ## 🚀 About Me
